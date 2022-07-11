@@ -4,8 +4,8 @@ let btnPreto = document.getElementById('preto');
 let moto = document.getElementById('moto');
 
 btnVermelho.onclick = function(){
-    moto.style.backgroundImage = "url(/img/BMW1.png";
-}
+    moto.style.backgroundImage = "url(/img/BMW1.png)";
+} 
 
 btnAzul.onclick = function(){
     moto.style.backgroundImage = "url(/img/BMW2.png)";
